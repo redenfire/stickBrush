@@ -9,6 +9,7 @@
     position: relative;
     left: -12px;
     margin: 7px 15px 6px;
+background: none;
 }
 .to .typing_loader {
     animation: typing-black 1s linear infinite alternate;
