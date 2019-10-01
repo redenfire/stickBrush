@@ -1,4 +1,4 @@
-# convForm
+# convForm v
 
 A plugin that transforms a form into a interative chat.
 
