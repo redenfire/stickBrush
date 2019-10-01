@@ -35,6 +35,7 @@ For the plugin to know which question to ask, every input and select must have a
 ```
 
 
+
 ### Pick a question
 
 If you want, you can write more than one question for each tag, using pipe | to separate them. The plugin will randomly choose one to use each time the chat is generated. Example:
